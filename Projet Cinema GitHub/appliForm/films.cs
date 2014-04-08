@@ -5,8 +5,7 @@ using System.Text;
 
 namespace cinema
 {
-    public class salle
+    class films
     {
-        
     }
 }

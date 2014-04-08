@@ -7,6 +7,5 @@ namespace cinema
 {
     public class salle
     {
-        
     }
 }
